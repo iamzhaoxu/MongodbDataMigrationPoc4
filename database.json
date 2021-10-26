@@ -1,0 +1,9 @@
+{
+    "mongo": {
+      "driver": "mongodb",
+      "database": "war",
+      "host": "127.0.0.1",
+      "user": "root",
+      "password": "pass"
+    }
+}
